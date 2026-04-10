@@ -12,3 +12,9 @@ Day3  ## https://app.eraser.io/workspace/7G6kFhz4MjIct0zE3vAM?origin=share&diagr
 
 ###### Parking management design ######
 Day4  ##  https://app.eraser.io/workspace/zEUelHKkPzdU7s3iQahC?origin=share
+
+
+
+########## Smart Elevator Control #########################
+
+Day5 ## https://app.eraser.io/workspace/zEUelHKkPzdU7s3iQahC?origin=share
